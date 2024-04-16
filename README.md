@@ -1,4 +1,4 @@
-### Hi there 👋
+<!-- ### Hi there 👋 || positive vibes only please and thank you :) -->
 
 <h1 align="center">Hi 👋, I'm Chris</h1>
 <h3 align="center">A passionate graphic and web designer</h3>
