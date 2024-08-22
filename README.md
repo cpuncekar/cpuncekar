@@ -1,7 +1,7 @@
 <!-- ### Hi there 👋 || positive vibes only please and thank you :) -->
 
 <h1 align="center">Hi 👋, I'm Chris</h1>
-<h3 align="center">I specialize in web design and graphic creation, with a focus on developing visually appealing and user-centered solutions. My work is driven by a passion for creating designs that are both functional and aesthetically pleasing. Feel free to explore my projects, and let's connect if you're interested in collaborating.</h3>
+<h5 align="center">I specialize in web design and graphic creation, with a focus on developing visually appealing and user-centered solutions. My work is driven by a passion for creating designs that are both functional and aesthetically pleasing. Feel free to explore my projects, and let's connect if you're interested in collaborating.</h5>
 
 <p align="left">
 </p>
