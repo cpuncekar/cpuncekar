@@ -1,5 +1,5 @@
 <!-- ### Hi there 👋 || positive vibes only please and thank you :) -->
-![Banner](https://github.com/cpuncekar/cpuncekar/raw/main/banner.jpg)
+![Banner](https://github.com/cpuncekar/cpuncekar/raw/main/Github-Personal-Banner.png)
 
 # 💫 About Me:
 I specialize in web design, UX/UI design, and graphic creation, with a focus on developing visually appealing and user-centered solutions. My work is driven by a passion for creating designs that are both functional and aesthetically pleasing. Feel free to explore my projects, and let's connect if you're interested in collaborating.
