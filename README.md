@@ -24,12 +24,13 @@ I specialize in web design, digital designer, and graphic creation, with a focus
 - Live Project: [https://ghostwritepro.netlify.app](https://ghostwritepro.netlify.app)
 
 #### Clari+IQ (FinTech Product Landing Page)  
-- GitHub Repo: [https://github.com/cpuncekar/clari-iq](https://github.com/cpuncekar/clari-iq)  
+- GitHub Repo: [https://github.com/cpuncekar/clari-iq](https://github.com/cpuncekar/clari-iq)
 - Live Project: [[https://clari-iq.webflow.io](https://clari-iq-finance-site.webflow.io/))
 
 #### VibeElevate (Mental Health Resource Site)  
 - GitHub Repo: [https://github.com/cpuncekar/vibeelevate](https://github.com/cpuncekar/vibeelevate)  
 - Live Project: [https://vibeelevate.webflow.io](https://vibeelevate.webflow.io)
+- Case Study: [clari-iq-case-study](https://chrispuncekar.com/clari-iq-case-study)
 
 ---
 
