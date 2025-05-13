@@ -12,7 +12,7 @@ I specialize in web design, digital designer, and graphic creation, with a focus
 #### Diamond Luxe Co. (Luxury eCommerce Brand)  
 - GitHub Repo: [https://github.com/cpuncekar/diamond-luxe-co](https://github.com/cpuncekar/diamond-luxe-co)  
 - Live Project: [https://www.diamondluxeco.com](https://www.diamondluxeco.com)
-- Case Study: [Diamond Luxe Case Study](diamond-luxe-case-study](https://chrispuncekar.com/diamond-luxe-case-study)
+- Case Study: [diamond-luxe-case-study](https://chrispuncekar.com/diamond-luxe-case-study)
 
 #### Clari+IQ (FinTech Product Landing Page)  
 - GitHub Repo: [https://github.com/cpuncekar/clari-iq](https://github.com/cpuncekar/clari-iq)  
