@@ -16,7 +16,7 @@ I specialize in web design, digital designer, and graphic creation, with a focus
 - Case Study: [diamond-luxe-case-study](https://chrispuncekar.com/diamond-luxe-case-study)
 
 #### Cyper Sports (WordPress Sports Blog)  
-- GitHub Repo: [https://github.com/cpuncekar/cyper-sports](https://github.com/cpuncekar/cyper-sports)  
+- GitHub Repo: [https://github.com/cpuncekar/cyper-sports](https://github.com/cpuncekar/cyper-sports-blog)  
 - Live Project: [https://www.cypersports.com](https://www.cypersports.com)
 
 #### Clari+IQ (FinTech Product Landing Page)  
