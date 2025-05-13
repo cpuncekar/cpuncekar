@@ -19,13 +19,13 @@ I specialize in web design, digital designer, and graphic creation, with a focus
 - GitHub Repo: [https://github.com/cpuncekar/cyper-sports](https://github.com/cpuncekar/cyper-sports-blog)  
 - Live Project: [https://www.cypersports.com](https://www.cypersports.com)
 
-#### Clari+IQ (FinTech Product Landing Page)  
-- GitHub Repo: [https://github.com/cpuncekar/clari-iq](https://github.com/cpuncekar/clari-iq)  
-- Live Project: [https://clari-iq.webflow.io](https://clari-iq.webflow.io)
-
 #### GhostWritePro (Agency AI Content Tool – Work in Progress)  
 - GitHub Repo: [https://github.com/cpuncekar/ghostwritepro-agency](https://github.com/cpuncekar/ghostwritepro-agency)  
 - Live Project: [https://ghostwritepro.netlify.app](https://ghostwritepro.netlify.app)
+
+#### Clari+IQ (FinTech Product Landing Page)  
+- GitHub Repo: [https://github.com/cpuncekar/clari-iq](https://github.com/cpuncekar/clari-iq)  
+- Live Project: [https://clari-iq.webflow.io](https://clari-iq.webflow.io)
 
 #### VibeElevate (Mental Health Resource Site)  
 - GitHub Repo: [https://github.com/cpuncekar/vibeelevate](https://github.com/cpuncekar/vibeelevate)  
