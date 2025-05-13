@@ -7,23 +7,23 @@ I specialize in web design, digital designer, and graphic creation, with a focus
 
 ## UX/UI & Web Design Portfolio
 
-### Diamond Luxe Co. (Luxury eCommerce Brand)  
+## Diamond Luxe Co. (Luxury eCommerce Brand)  
 - GitHub Repo: [https://github.com/cpuncekar/diamond-luxe-co](https://github.com/cpuncekar/diamond-luxe-co)  
 - Live Project: [https://www.diamondluxeco.com](https://www.diamondluxeco.com)
 
-### Clari+IQ (FinTech Product Landing Page)  
+## Clari+IQ (FinTech Product Landing Page)  
 - GitHub Repo: [https://github.com/cpuncekar/clari-iq](https://github.com/cpuncekar/clari-iq)  
 - Live Project: [https://clari-iq.webflow.io](https://clari-iq.webflow.io)
 
-### Cyper Sports (WordPress Sports Blog)  
+## Cyper Sports (WordPress Sports Blog)  
 - GitHub Repo: [https://github.com/cpuncekar/cyper-sports](https://github.com/cpuncekar/cyper-sports)  
 - Live Project: [https://www.cypersports.com](https://www.cypersports.com)
 
-### VibeElevate (Mental Health Resource Site)  
+## VibeElevate (Mental Health Resource Site)  
 - GitHub Repo: [https://github.com/cpuncekar/vibeelevate](https://github.com/cpuncekar/vibeelevate)  
 - Live Project: [https://vibeelevate.webflow.io](https://vibeelevate.webflow.io)
 
-### GhostWritePro (Agency AI Content Tool – Work in Progress)  
+## GhostWritePro (Agency AI Content Tool – Work in Progress)  
 - GitHub Repo: [https://github.com/cpuncekar/ghostwritepro-agency](https://github.com/cpuncekar/ghostwritepro-agency)  
 - Live Project: [https://ghostwritepro.netlify.app](https://ghostwritepro.netlify.app)
 
