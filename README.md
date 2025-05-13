@@ -7,21 +7,43 @@ I specialize in web design, digital designer, and graphic creation, with a focus
 
 ## 📁 UX/UI & Web Design Portfolio
 
-### 🎯 [Diamond Luxe Co.](https://www.diamondluxeco.com)
-Luxury crypto streetwear eCommerce store built on Shopify, with custom branding, UI/UX design, and conversion-focused layouts.  
-**Tools:** Figma · Shopify · Klaviyo · Photoshop · Liquid
+### 🛍️ Diamond Luxe Co. (Luxury eCommerce Brand)
+- **GitHub Repo:** [Diamond Luxe Co.](https://github.com/cpuncekar/diamond-luxe-co)
+- **Live Project:** [www.diamondluxeco.com](https://www.diamondluxeco.com)
 
-### 💡 [Clari+IQ](https://clari-iq.webflow.io)
-A FinTech landing page and concept dashboard focused on financial clarity and smart money management.  
-**Tools:** Webflow · Relume · Figma · Google Fonts
+### 💡 Clari+IQ (FinTech Product Landing Page)
+- **GitHub Repo:** [Clari+IQ](https://github.com/cpuncekar/clari-iq)
+- **Live Project:** [clari-iq.webflow.io](https://clari-iq.webflow.io)
 
-### 🏈 [Cyper Sports](https://www.cypersports.com)
-A WordPress-based sports blog showcasing trending headlines, social media integrations, and anti-spam protection.  
-**Tools:** WordPress · Elementor · PHP · HTML/CSS
+### 🏈 Cyper Sports (WordPress Sports Blog)
+- **GitHub Repo:** [Cyper Sports](https://github.com/cpuncekar/cyper-sports)
+- **Live Project:** [www.cypersports.com](https://www.cypersports.com)
 
-### 🌱 [VibeElevate (Mental Health Resource)](https://vibeelevate.webflow.io)
-Community wellness project offering mental health resources, guides, and a calming, student-focused design system.  
-**Tools:** Webflow · Canva · Framer (prototype) · Google Fonts
+### 🌱 VibeElevate (Mental Health Resource Site)
+- **GitHub Repo:** [VibeElevate](https://github.com/cpuncekar/vibeelevate)
+- **Live Project:** [vibeelevate.webflow.io](https://vibeelevate.webflow.io)
+
+### ⚡ GhostWritePro (Agency AI Content Tool – Work in Progress)
+- **GitHub Repo:** [GhostWritePro](https://github.com/cpuncekar/ghostwritepro-agency)
+- **Live Project:** [ghostwritepro.netlify.app](https://ghostwritepro.netlify.app)
+
+---
+
+## 📚 Certifications
+
+- 🎓 Google UX Design Certificate – Coursera (2021)  
+- 🧠 CourseCareers UX/UI Design Certificate (2025)  
+- 🎓 B.A.S. in Internet and Web Development – Arizona State University
+
+---
+
+## 🧪 Currently Working On
+
+### ⚡ bolt.new – AI-Powered Design & Ideation Platform
+- Designing SaaS-style landing pages and dashboards
+- Creating rapid UI/UX mockups with Bolt + Relume + Figma
+- Turning AI-generated layouts into fully built case studies
+- Exploring creator toolkits for content teams and marketers
 
 
 
