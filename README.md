@@ -5,45 +5,54 @@
 I specialize in web design, digital designer, and graphic creation, with a focus on developing visually appealing and user-centered solutions. My work is driven by a passion for creating designs that are both functional and aesthetically pleasing. Feel free to explore my projects, and let's connect if you're interested in collaborating.
 
 
-## 📁 UX/UI & Web Design Portfolio
+## UX/UI & Web Design Portfolio
 
-### 🛍️ Diamond Luxe Co. (Luxury eCommerce Brand)
-- **GitHub Repo:** [Diamond Luxe Co.](https://github.com/cpuncekar/diamond-luxe-co)
-- **Live Project:** [www.diamondluxeco.com](https://www.diamondluxeco.com)
+### Diamond Luxe Co. (Luxury eCommerce Brand)  
+**GitHub Repo:** [Diamond Luxe Co.](https://github.com/cpuncekar/diamond-luxe-co)  
+**Live Project:** [www.diamondluxeco.com](https://www.diamondluxeco.com)
 
-### 💡 Clari+IQ (FinTech Product Landing Page)
-- **GitHub Repo:** [Clari+IQ](https://github.com/cpuncekar/clari-iq)
-- **Live Project:** [clari-iq.webflow.io](https://clari-iq.webflow.io)
+### Clari+IQ (FinTech Product Landing Page)  
+**GitHub Repo:** [Clari+IQ](https://github.com/cpuncekar/clari-iq)  
+**Live Project:** [clari-iq.webflow.io](https://clari-iq.webflow.io)
 
-### 🏈 Cyper Sports (WordPress Sports Blog)
-- **GitHub Repo:** [Cyper Sports](https://github.com/cpuncekar/cyper-sports)
-- **Live Project:** [www.cypersports.com](https://www.cypersports.com)
+### Cyper Sports (WordPress Sports Blog)  
+**GitHub Repo:** [Cyper Sports](https://github.com/cpuncekar/cyper-sports)  
+**Live Project:** [www.cypersports.com](https://www.cypersports.com)
 
-### 🌱 VibeElevate (Mental Health Resource Site)
-- **GitHub Repo:** [VibeElevate](https://github.com/cpuncekar/vibeelevate)
-- **Live Project:** [vibeelevate.webflow.io](https://vibeelevate.webflow.io)
+### VibeElevate (Mental Health Resource Site)  
+**GitHub Repo:** [VibeElevate](https://github.com/cpuncekar/vibeelevate)  
+**Live Project:** [vibeelevate.webflow.io](https://vibeelevate.webflow.io)
 
-### ⚡ GhostWritePro (Agency AI Content Tool – Work in Progress)
-- **GitHub Repo:** [GhostWritePro](https://github.com/cpuncekar/ghostwritepro-agency)
-- **Live Project:** [ghostwritepro.netlify.app](https://ghostwritepro.netlify.app)
-
----
-
-## 📚 Certifications
-
-- 🎓 Google UX Design Certificate – Coursera (2021)  
-- 🧠 CourseCareers UX/UI Design Certificate (2025)  
-- 🎓 B.A.S. in Internet and Web Development – Arizona State University
+### GhostWritePro (Agency AI Content Tool – Work in Progress)  
+**GitHub Repo:** [GhostWritePro](https://github.com/cpuncekar/ghostwritepro-agency)  
+**Live Project:** [ghostwritepro.netlify.app](https://ghostwritepro.netlify.app)
 
 ---
 
-## 🧪 Currently Working On
+## Certifications
 
-### ⚡ bolt.new – AI-Powered Design & Ideation Platform
-- Designing SaaS-style landing pages and dashboards
-- Creating rapid UI/UX mockups with Bolt + Relume + Figma
-- Turning AI-generated layouts into fully built case studies
+- Bachelor of Applied Science in Internet and Web Development – Arizona State University (2017)  
+- Google UX Design Certificate – Coursera (2021)  
+- CourseCareers UX/UI Design Certificate (2025)
+
+---
+
+## Currently Working On
+
+### bolt.new – AI-Powered Design & Ideation Platform  
+- Designing SaaS-style landing pages and dashboards  
+- Creating rapid UI/UX mockups with Bolt, Relume, and Figma  
+- Turning AI-generated layouts into fully built case studies  
 - Exploring creator toolkits for content teams and marketers
+
+---
+
+## Thank You for Visiting  
+Thanks for stopping by! If you're looking to collaborate, hire, or just connect over good design—I’d love to chat.
+
+- [chrispuncekar.com](https://www.chrispuncekar.com)  
+- [linkedin.com/in/chrispuncekar](https://www.linkedin.com/in/chrispuncekar)  
+- [github.com/cpuncekar](https://github.com/cpuncekar) (You are here!)
 
 
 
