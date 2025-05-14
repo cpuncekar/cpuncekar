@@ -1,5 +1,5 @@
 <!-- ### Hi there 👋 || positive vibes only please and thank you :) -->
-![Banner](https://github.com/cpuncekar/cpuncekar/raw/main/03-Github-Personal-Banner-Digital-Designer-Darker-updated.png)
+![Banner](https://github.com/cpuncekar/cpuncekar/raw/main/04-Github-Personal-Banner-Digital-Designer-Darker-updated.png)
 
 ### Hello, I'm Chris — a Digital Designer
 with specializations in UI/UX, Web Design, and Graphic Design.
