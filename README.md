@@ -19,6 +19,11 @@ I specialize in web design, digital designer, and graphic creation, with a focus
 - GitHub Repo: [https://github.com/cpuncekar/cyper-sports](https://github.com/cpuncekar/cyper-sports-blog)  
 - Live Project: [https://www.cypersports.com](https://www.cypersports.com)
 
+#### ColorFuel (Design Resource Tool)
+
+- GitHub: [cpuncekar/colorfuel-design](https://github.com/cpuncekar/colorfuel-design)
+- Live: [colorfuel-design.netlify.app](https://colorfuel-design.netlify.app)
+
 #### GhostWritePro (Agency AI Content Tool – Work in Progress)  
 - GitHub Repo: [https://github.com/cpuncekar/ghostwritepro-agency](https://github.com/cpuncekar/ghostwritepro-agency)  
 - Live Project: [https://ghostwritepro.netlify.app](https://ghostwritepro.netlify.app)
