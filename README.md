@@ -1,8 +1,8 @@
 <!-- ### Hi there 👋 || positive vibes only please and thank you :) -->
 ![Banner](https://github.com/cpuncekar/cpuncekar/raw/main/04-Github-Personal-Banner-Digital-Designer-Darker-updated.png)
 
-### Hello, I'm Chris — a Digital Designer
-with specializations in UI/UX, Web Design, and Graphic Design.
+### Hello, I'm Chris — a Digital Designer  
+With specializations in UI/UX, Web Design, and Graphic Design.
 
 ### 💫 About Me:
 I specialize in web design, digital designer, and graphic creation, with a focus on developing visually appealing and user-centered solutions. My work is driven by a passion for creating designs that are both functional and aesthetically pleasing. Feel free to explore my projects, and let's connect if you're interested in collaborating.
