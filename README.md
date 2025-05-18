@@ -24,6 +24,11 @@ I specialize in web design, digital designer, and graphic creation, with a focus
 - GitHub: [cpuncekar/colorfuel-design](https://github.com/cpuncekar/colorfuel-design)
 - Live: [colorfuel-design.netlify.app](https://colorfuel-design.netlify.app)
 
+#### VibeElevate (Mental Health Resource Site)  
+- GitHub Repo: [https://github.com/cpuncekar/vibe-elevate](https://github.com/cpuncekar/vibe-elevate)
+- Live Project: [https://vibeelevate-np.webflow.io/](https://vibeelevate-np.webflow.io/)
+- Case Study: [vibe-elevate-case-study](https://chrispuncekar.com/vibe-elevate-case-study)
+
 #### GhostWritePro (Agency AI Content Tool – Work in Progress)  
 - GitHub Repo: [https://github.com/cpuncekar/ghostwritepro-agency](https://github.com/cpuncekar/ghostwritepro-agency)  
 - Live Project: [https://ghostwritepro.netlify.app](https://ghostwritepro.netlify.app)
@@ -32,11 +37,6 @@ I specialize in web design, digital designer, and graphic creation, with a focus
 - GitHub Repo: [https://github.com/cpuncekar/clari-iq](https://github.com/cpuncekar/clari-iq)
 - Live Project: [[https://clari-iq.webflow.io](https://clari-iq-finance-site.webflow.io/))
 - Case Study: [clari-iq-case-study](https://chrispuncekar.com/clari-iq-case-study)
-
-#### VibeElevate (Mental Health Resource Site)  
-- GitHub Repo: [https://github.com/cpuncekar/vibe-elevate](https://github.com/cpuncekar/vibe-elevate)
-- Live Project: [https://vibeelevate-np.webflow.io/](https://vibeelevate-np.webflow.io/)
-- Case Study: [vibe-elevate-case-study](https://chrispuncekar.com/vibe-elevate-case-study)
 
 ---
 
