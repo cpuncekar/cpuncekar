@@ -36,6 +36,7 @@ I specialize in web design, digital designer, and graphic creation, with a focus
 #### VibeElevate (Mental Health Resource Site)  
 - GitHub Repo: [https://github.com/cpuncekar/vibe-elevate](https://github.com/cpuncekar/vibe-elevate)
 - Live Project: [https://vibeelevate-np.webflow.io/](https://vibeelevate-np.webflow.io/)
+- Case Study: [vibe-elevate-case-study](https://chrispuncekar.com/vibe-elevate-case-study)
 
 ---
 
