@@ -34,8 +34,8 @@ I specialize in web design, digital designer, and graphic creation, with a focus
 - Case Study: [clari-iq-case-study](https://chrispuncekar.com/clari-iq-case-study)
 
 #### VibeElevate (Mental Health Resource Site)  
-- GitHub Repo: [https://github.com/cpuncekar/vibeelevate](https://github.com/cpuncekar/vibeelevate)  
-- Live Project: [https://vibeelevate.webflow.io](https://vibeelevate.webflow.io)
+- GitHub Repo: [https://github.com/cpuncekar/vibe-elevate](https://github.com/cpuncekar/vibe-elevate)
+- Live Project: [https://vibeelevate-np.webflow.io/](https://vibeelevate-np.webflow.io/)
 
 ---
 
