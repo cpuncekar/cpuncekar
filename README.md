@@ -40,11 +40,12 @@ I specialize in web design, digital designer, and graphic creation, with a focus
 
 ---
 
-### Certifications
+### Education
+- Bachelor of Applied Science in Internet and Web Development – Arizona State University (2017)
 
-- Bachelor of Applied Science in Internet and Web Development – Arizona State University (2017)  
-- Google UX Design Certificate – Coursera (2021)  
+### Certifications
 - CourseCareers UX/UI Design Certificate (2025)
+- Google UX Design Certificate – Coursera (2021)
 
 ---
 
