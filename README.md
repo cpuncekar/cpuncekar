@@ -19,6 +19,9 @@ I specialize in web design, digital designer, and graphic creation, with a focus
 - GitHub Repo: [https://github.com/cpuncekar/cyper-sports](https://github.com/cpuncekar/cyper-sports-blog)  
 - Live Project: [https://www.cypersports.com](https://www.cypersports.com)
 
+### HTML Email Development (Hand-Coded with MJML)
+-- GitHub Repo: [https://github.com/cpuncekar/html-emails](https://github.com/cpuncekar/html-emails)  
+
 #### Friction Tracker (Internal Support Dashboard)
 - GitHub: [cpuncekar/friction-tracker](https://github.com/cpuncekar/friction-tracker)
 - Live: [friction-tracker.netlify.app](https://friction-tracker.netlify.app/)
